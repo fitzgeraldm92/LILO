@@ -1,0 +1,62 @@
+[
+	{
+		"resNum": 0,
+		"firstName": "John",
+		"lastName": "Smith",
+		"street": "123 Pine Rd.",
+		"city": "Jamestown",
+		"state": "VA",
+		"country": "USA",
+		"zip code": 55555,
+		"phone number": 1234567899,
+		"resort": "Disney's Wilderness Lodge"
+	},
+	{
+		"resNum": 1,
+		"firstName": "Mickey",
+		"lastName": "Mouse",
+		"street": "354 Main St.",
+		"city": "Toontown",
+		"state": "MO",
+		"country": "USA",
+		"zip code": 98372,
+		"phone number": 5830392740,
+		"resort": "Disney's Contemporary Resort"
+	},
+	{
+		"resNum": 2,
+		"firstName": "Mary",
+		"lastName": "Poppins",
+		"street": "238 Travers Dr.",
+		"city": "London",
+		"state": "NA",
+		"country": "England",
+		"zip code": 00000,
+		"phone number": 3828740884,
+		"resort": "Disney's Grand Floridian Resort and Spa"
+	},
+	{
+		"resNum": 3,
+		"firstName": "Princess",
+		"lastName": "Tiana",
+		"street": "783 Bourbon St.",
+		"city": "New Orleans",
+		"state": "LA",
+		"country": "USA",
+		"zip code": 48372,
+		"phone number": 4328942439,
+		"resort": "Disney's Port Orleans Resort French Quarter"
+	},
+	{
+		"resNum": 4,
+		"firstName": "Lilo",
+		"lastName": "Pelekai",
+		"street": "234 Hibiscus Rd",
+		"city": "Kauai",
+		"state": "HI",
+		"country": "USA",
+		"zip code": 32495,
+		"phone number": 9382740002,
+		"resort": "Disney's Polynesian Resort"
+	}
+]

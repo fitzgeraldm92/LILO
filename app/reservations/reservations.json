@@ -1,0 +1,42 @@
+[
+    {
+        "resNum": 0, 
+        "firstName": "Mickey", 
+        "lastName" : "Mouse",
+        "resort": "Disney's Contemporary Resort", 
+        "city": "Toontown", 
+        "celebration": "birthday"
+    }, 
+    {
+        "resNum": 1, 
+        "firstName": "Mary", 
+        "lastName" : "Poppins",
+        "resort": "Disney's Grand Floridian Resort and Spa", 
+        "city": "London", 
+        "celebration": "retirement"
+    }, 
+    {
+        "resNum": 2, 
+        "firstName": "John", 
+        "lastName" : "Smith",
+        "resort": "Disney's Wilderness Lodge", 
+        "city": "Jameston", 
+        "celebration": "discovery"
+    }, 
+    {
+        "resNum": 3, 
+        "firstName": "Princess", 
+        "lastName" : "Tiana",
+        "resort": "Disney's Port Orleans Resort French Quarter", 
+        "city": "New Orleans", 
+        "celebration": "opening my own business"
+    },
+        {
+        "resNum": 4, 
+        "firstName": "Princess", 
+        "lastName" : "Cinderella",
+        "resort": "Disney's Grand Floridian Resort and Spa", 
+        "city": "Paris", 
+        "celebration": "Finding my prince charming"
+    }
+]
