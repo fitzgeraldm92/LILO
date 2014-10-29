@@ -1,6 +1,6 @@
-var app = angular.module("myApp", []); 
+var appControllers = angular.module('appControllers', []);
 
-app.controller('ResListCtrl', function($scope, $http) {
+appControllers.controller('ResListCtrl', function($scope, $http) {
   $http.get('reservations/reservations.json').success(function(data) {
     $scope.reservations = data;
   });
