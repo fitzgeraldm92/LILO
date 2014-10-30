@@ -5,3 +5,10 @@ appControllers.controller('ResListCtrl', function($scope, $http) {
     $scope.reservations = data;
   });
 });
+
+appControllers.controller('JSTestCtrl', ['$scope', function($scope) {
+	$scope.text='Soundex';
+	$scope.submit = function() {
+		alert('You clicked the top text'); 
+	}
+}]);

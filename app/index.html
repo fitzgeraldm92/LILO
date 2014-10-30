@@ -9,6 +9,7 @@
   	<script src="js/angular.min.js"></script>
   	<script src="js/app.js"></script>
   	<script src="js/controllers.js"></script>
+    <script src="js/test.js"></script>
 </head>
 <body>
 	<div ng-include="'partials/navbar.html'"></div>
@@ -29,5 +30,26 @@
 		</div>
 	</div>
 	<hr>
+	<div class="container" ng-controller="JSTestCtrl">
+		<form ng-submit="submit()" ng-controller="JSTestCtrl">
+			<div class="row">
+				<div class="col-md-2">
+					Search: <input type="text" ng-model="text" name="text" />
+				</div>
+				<div class="col-md-2">
+					<input type="submit" id="submit" value="Submit" />
+				</div>
+			</div>
+			<br>
+			<div class="row">
+				<div class-"col-md-2">
+					<ul>
+					 <ol><a href="#" onClick="functionOne();">Top Text</a></ol>
+					 <ol><a href="javascript:functionTwo();">Bottom Text</a></ol>
+					</ul>
+				</div>
+			</div>
+		</form>
+	</div>
 </body>
 </html>
